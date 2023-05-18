@@ -21,7 +21,7 @@ nav {
   color: white;
   /*transition-property: background-color;
   transition-duration: .5s; */
-  transition: background-color /5s;
+  transition: background-color 1s;
 }
 
 nav:hover {
